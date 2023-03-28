@@ -16,16 +16,16 @@ This is an AI chatbot built using Vanilla, Express, and Vite that can solve comp
 
 To get started with the project, you'll need to install the required dependencies. You can do this by running the following command:
 
-## npm install
+### npm install
 
 Once the dependencies are installed, you can start the development server by running the following command:
 
-## npm run dev
+### npm run dev
 
 
 This will start the server on `http://localhost:3000`.
 
-## Usage
+### Usage
 
 To use the chatbot, simply open the chat window and start asking questions. The chatbot will use natural language processing to understand your queries and provide answers.
 
